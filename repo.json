@@ -1,0 +1,8 @@
+{
+  "name": "NusaStream",
+  "description": "Indonesian Movie Repository for CloudStream",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/CodeSanzz/NusaStream/refs/heads/builds/plugins.json"
+  ]
+}

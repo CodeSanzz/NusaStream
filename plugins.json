@@ -1,0 +1,208 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=malcontentgames.com&sz=%size%",
+        "fileHash": "sha256-449917c7cc1f8ecabeea05136951e5eb597bb1acf359611afda57a3ddb300cd4",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 34161,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "Dutamovie",
+        "description": "DutaMovie adalah penyedia streaming film dan serial dari berbagai negara, termasuk drama Asia, film, serial TV, dan anime. Nikmati beragam pilihan tontonan dengan koleksi yang terus diperbarui.",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/Dutamovie.cs3",
+        "name": "Dutamovie"
+    },
+    {
+        "iconUrl": "https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://idlixian.com&size=16",
+        "fileHash": "sha256-7cd9922e16949965bc937ed9a7f5f0bfa26cc81441724edf46a4fe5ce25e64f7",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 68982,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "IdlixProvider",
+        "description": "IDLIX - Streaming Movie, TV Series and Anime",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/IdlixProvider.cs3",
+        "name": "IdlixProvider"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kisskh.co&sz=%size%",
+        "jarFileSize": 157959,
+        "fileHash": "sha256-a03e3144b8314db0a098f2be07e97e88f7e37bcf00a1f42b28a961255cefe8ed",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 39727,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Anime",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "Kisskh",
+        "jarUrl": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/Kisskh.jar",
+        "description": "KissKH - Korean Drama Streaming",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/Kisskh.cs3",
+        "name": "Kisskh",
+        "jarHash": "sha256-763d0fcdbb0026837ab5a079a37cd6532cbf37bae03aca763ffe085ff452b55d"
+    },
+    {
+        "fileHash": "sha256-a0ff0ffbced9d6b1b19cd723872b910464fd5baa546785b0b3885812af3ff78a",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 22754,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "KlikXXI",
+        "description": "KlikXXi - Streaming Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/KlikXXI.cs3",
+        "name": "KlikXXI"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
+        "fileHash": "sha256-07369e212ca9197c616b46fe278b65a56e0085d7eee36a697eabddb04030a281",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 62347,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 1,
+        "internalName": "Kuramanime",
+        "description": "Kuramanime \u2014 Streaming Anime Subtitle Indonesia",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/Kuramanime.cs3",
+        "name": "Kuramanime"
+    },
+    {
+        "iconUrl": "https://assets.lk21.party/favicons/apple-icon-144x144.png",
+        "fileHash": "sha256-528e5a29d33b5515841aacd307c46e26ee56d29a9527911eab85b3e4087ade51",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 114386,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "LayarKacaProvider",
+        "description": "LayarKaca - Streaming Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/LayarKacaProvider.cs3",
+        "name": "LayarKacaProvider"
+    },
+    {
+        "iconUrl": "https://moviebox.ph/favicon.ico",
+        "fileHash": "sha256-9dcce47c2aef6fdeaba8968534ad104193ed488e68e91c4fd7a863922a8026b0",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 125017,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "Moviebox",
+        "description": "MovieBox menyediakan anime, film Indonesia, drama Asia, film Hollywood, dan serial TV.",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/Moviebox.cs3",
+        "name": "Moviebox"
+    },
+    {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://oppa.biz&size=128",
+        "fileHash": "sha256-f82e52275f7cca8d8b44e704586a559c2dade87a6c0a331b8dc12d5f39fc816c",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 94903,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 1,
+        "internalName": "OppaDrama",
+        "description": "OPPADRAMA \u2014 Streaming Drama Korea, Movie and TV Series",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/OppaDrama.cs3",
+        "name": "OppaDrama"
+    },
+    {
+        "iconUrl": "https://sflix.film/favicon.ico",
+        "fileHash": "sha256-34992cc0daecd40059fcc621b6471bd320e6e4f5f898c4334a16d88d2cf295a8",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/CodeSanzz/NusaStream",
+        "fileSize": 35922,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "CodeSanz"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie",
+            "Anime",
+            "AsianDrama"
+        ],
+        "version": 1,
+        "internalName": "Sflix",
+        "description": "Sflix menyediakan film Indonesia, drama, film Hollywood, anime, dan serial TV.",
+        "url": "https://raw.githubusercontent.com/CodeSanzz/NusaStream/builds/Sflix.cs3",
+        "name": "Sflix"
+    }
+]
