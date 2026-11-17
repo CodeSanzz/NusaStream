@@ -236,8 +236,14 @@ class OppaDramaProvider : MainAPI() {
                       title.startsWith("Movie ", ignoreCase = true) ||
                       url.contains("/movie-", ignoreCase = true)
 
-        val trailerUrl = doc.selectFirst("iframe[src*=youtube], iframe[src*=youtu.be], a.popup-youtube, a[href*=youtube.com], a[href*=youtu.be]")?.let { el ->
-            el.attr("src").ifEmpty { el.attr("href") }
+        val trailerEl: Element? = doc.selectFirst(
+            "iframe[src*=youtube], iframe[src*=youtu.be], a.popup-youtube, a[href*=youtube.com], a[href*=youtu.be]"
+        )
+        val trailerUrl: String? = if (trailerEl != null) {
+            val srcAttr: String = trailerEl.attr("src")
+            if (srcAttr.isNotEmpty()) srcAttr else trailerEl.attr("href")
+        } else {
+            null
         }
 
         return if (isMovie) {

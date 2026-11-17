@@ -1,4 +1,3 @@
-
 package com.OppaDrama
 
 import com.lagradost.cloudstream3.HomePageResponse
@@ -21,7 +20,7 @@ class OppaDramaDiagProvider : MainAPI() {
     override var mainUrl = "http://127.0.0.1"
     override var name = "OPPADRAMA-DIAG"
     override var lang = "id"
-    override val hasMainPage = true
+    override var hasMainPage = true
     override val supportedTypes = setOf(TvType.Others)
 
     override val mainPage = mainPageOf("m2" to "Diagnostik M1 + M2")
@@ -143,7 +142,7 @@ class OppaDramaDiagProvider : MainAPI() {
     override suspend fun loadLinks(
         data: String,
         isCasting: Boolean,
-        subtitleCallback: (ExtractorLink) -> Unit,
+        subtitleCallback: (SubtitleFile) -> Unit,
         callback: (ExtractorLink) -> Unit
     ): Boolean = false
 }
